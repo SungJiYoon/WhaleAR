@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 83733eb927228794586f19cbc076017c
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -1084475629370886739
+    second: Blue_Whale|Attack
+  - first:
+      74: -1153221544086444362
+    second: Blue_Whale|Attack_2
+  - first:
+      74: 7656564739083451123
+    second: Blue_Whale|Death
+  - first:
+      74: -6016526765285256989
+    second: Blue_Whale|Eat
+  - first:
+      74: 2393207130368309605
+    second: Blue_Whale|Hit_B
+  - first:
+      74: 8990417591902875583
+    second: Blue_Whale|Hit_F
+  - first:
+      74: -4581241300143067758
+    second: Blue_Whale|Hit_M
+  - first:
+      74: -5105667460847515348
+    second: Blue_Whale|Idle_1
+  - first:
+      74: 7616952304874307575
+    second: Blue_Whale|Idle_2
+  - first:
+      74: -7081266571882413183
+    second: Blue_Whale|Swim_F_Attack_IP
+  - first:
+      74: -3979165230396683848
+    second: Blue_Whale|Swim_F_Attack_RM
+  - first:
+      74: 4425381097769800890
+    second: Blue_Whale|Swim_F_IP
+  - first:
+      74: -927545927030144909
+    second: Blue_Whale|Swim_F_RM
+  - first:
+      74: 5987290247593958897
+    second: Blue_Whale|Swim_FD_IP
+  - first:
+      74: 3030506349052247633
+    second: Blue_Whale|Swim_FD_RM
+  - first:
+      74: 3123776980872849303
+    second: Blue_Whale|Swim_FL_IP
+  - first:
+      74: 115694138520467883
+    second: Blue_Whale|Swim_FL_RM
+  - first:
+      74: 8499875162956667905
+    second: Blue_Whale|Swim_FR_IP
+  - first:
+      74: -1921687827085331979
+    second: Blue_Whale|Swim_FR_RM
+  - first:
+      74: 4556755080400995939
+    second: Blue_Whale|Swim_FU_IP
+  - first:
+      74: 8209740041314829789
+    second: Blue_Whale|Swim_FU_RM
+  - first:
+      74: 4297290675007646387
+    second: Blue_Whale|Swim_S_F_IP
+  - first:
+      74: -2022786233784856003
+    second: Blue_Whale|Swim_S_F_RM
+  - first:
+      74: 1516279831192061156
+    second: Blue_Whale|Swim_S_FD_IP
+  - first:
+      74: -8623497891517157200
+    second: Blue_Whale|Swim_S_FD_RM
+  - first:
+      74: -3812822837295237425
+    second: Blue_Whale|Swim_S_FL_IP
+  - first:
+      74: -2501324134790605023
+    second: Blue_Whale|Swim_S_FL_RM
+  - first:
+      74: -1646520271961348202
+    second: Blue_Whale|Swim_S_FR_IP
+  - first:
+      74: 5494788663218015350
+    second: Blue_Whale|Swim_S_FR_RM
+  - first:
+      74: 6982094259939736213
+    second: Blue_Whale|Swim_S_FU_IP
+  - first:
+      74: -3090690808497388267
+    second: Blue_Whale|Swim_S_FU_RM
+  - first:
+      74: 6688485349129110913
+    second: Blue_Whale|Turn_L_IP
+  - first:
+      74: 5568063497140805763
+    second: Blue_Whale|Turn_L_RM
+  - first:
+      74: 1870988435593209934
+    second: Blue_Whale|Turn_R_IP
+  - first:
+      74: -5638561495948606149
+    second: Blue_Whale|Turn_R_RM
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Whale_M
+    second: {fileID: 2100000, guid: 6f6cc3b01b8d96f46b68072862a63fd9, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
